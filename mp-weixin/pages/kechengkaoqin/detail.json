@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#f06f4f",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "课程考勤详情",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}
