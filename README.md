@@ -9,7 +9,7 @@
 
 **毕业设计所有选题地址： https://github.com/Good-Night-Unicorn?tab=repositories**
 
-## 基于springboot+Vue微信小程序的微信平台签到系统系统+LW(源码+数据库)
+## 基于springboot+Vue+微信小程序的微信平台签到系统系统+LW(源码+数据库)
 
 ## 一、系统介绍
 1.项目由小程序与后台网站组成
